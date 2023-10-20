@@ -1,0 +1,183 @@
+.loading {
+	font-size: 1.2em;
+	color: #F8F9FA;
+	display: flex;
+	align-items: center;
+}
+
+.loading .icon {
+	font-size: 1.2em;
+	margin-right: 6px;
+}
+
+.register {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.register .form {
+
+}
+
+.register .form .label {
+	margin-bottom: 20px;
+}
+
+.register .form .label h1 {
+	font-size: 2em;
+	color: #F8F9FA;
+}
+
+.register .form .label .alert {
+	margin: 2px;
+	font-size: 1.1em;
+}
+
+.register .form .username {
+	display: flex;
+	flex-direction: column;
+	margin: 15px 0px;
+}
+
+.register .form .username label {
+	font-size: 1.1em;
+	display: flex;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	color: #F8F9FA;
+}
+
+.register .form .username label .icon {
+	margin-right: 2px;
+	font-size: 1.1em;
+}
+
+.register .form .username input {
+	outline: 0;
+	border: 1px solid #F8F9FA;
+	border-radius: 8px;
+	padding: 8px 10px;
+	font-size: 1.1em;
+	background-color: transparent;
+	color: #F8F9FA;
+}
+
+.register .form .email {
+	display: flex;
+	flex-direction: column;
+	margin: 15px 0px;
+}
+
+.register .form .email label {
+	font-size: 1.1em;
+	display: flex;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	color: #F8F9FA;
+}
+
+.register .form .email label .icon {
+	margin-right: 5px;
+	font-size: 1.1em;
+}
+
+.register .form .email input {
+	outline: 0;
+	border: 1px solid #F8F9FA;
+	border-radius: 8px;
+	padding: 8px 10px;
+	font-size: 1.1em;
+	background-color: transparent;
+	color: #F8F9FA;
+}
+
+.register .form .password {
+	display: flex;
+	flex-direction: column;
+	margin: 15px 0px;
+}
+
+.register .form .password label {
+	font-size: 1.1em;
+	display: flex;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	color: #F8F9FA;
+}
+
+.register .form .password label .icon {
+	margin-right: 4px;
+	font-size: 1.1em;
+}
+
+.register .form .password input {
+	outline: 0;
+	border: 1px solid #F8F9FA;
+	border-radius: 8px;
+	padding: 8px 10px;
+	font-size: 1.1em;
+	background-color: transparent;
+	color: #F8F9FA;
+}
+
+.register .form .confirm-password {
+	display: flex;
+	flex-direction: column;
+	margin: 15px 0px;
+}
+
+.register .form .confirm-password label {
+	font-size: 1.1em;
+	display: flex;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	color: #F8F9FA;
+}
+
+.register .form .confirm-password label .icon {
+	margin-right: 4px;
+	font-size: 1.1em;
+}
+
+.register .form .confirm-password input {
+	outline: 0;
+	border: 1px solid #F8F9FA;
+	border-radius: 8px;
+	padding: 8px 10px;
+	font-size: 1.1em;
+	background-color: transparent;
+	color: #F8F9FA;
+}
+
+.register .form .submit {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+}
+
+.register .form .submit button {
+	outline: 0;
+	font-size: 1em;
+	border: 0;
+	border-radius: 8px;
+	padding: 10px;
+	color: #F8F9FA;
+	background-color: #0D6EFD;
+}
+
+.register .options {
+	display: flex;
+	flex-direction: column;
+}
+
+.register .options button {
+	outline: 0;
+	font-size: 1em;
+	border: 0;
+	border-radius: 8px;
+	padding: 10px;
+	color: #0D6EFD;
+	background-color: #F8F9FA;
+}
